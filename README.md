@@ -44,7 +44,13 @@ The application includes public pages, role-specific access to book management, 
 - `/admin/reports`
 
 ## Screenshots
-_(Include login screen, home page, access denied, etc.)_
+
+<img width="2940" height="1912" alt="image" src="https://github.com/user-attachments/assets/e532cc43-df4e-45e2-be6b-7761c591dad3" />
+
+<img width="2940" height="1912" alt="image" src="https://github.com/user-attachments/assets/f5ab99b6-5441-4169-90af-68d04601b349" />
+<img width="2940" height="1912" alt="image" src="https://github.com/user-attachments/assets/eca88333-00e6-411a-a0e6-4054db08b05b" />
+
 
 ## Test Results
-_(Include terminal or Postman screenshots confirming role-based access)_
+<img width="2940" height="1912" alt="image" src="https://github.com/user-attachments/assets/031236df-b998-450a-8730-632c3838f07c" />
+
